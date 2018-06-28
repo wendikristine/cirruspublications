@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 744.09448819 1052.3622047"
+   width="265.52686"
+   height="59.985191"
+   viewBox="0 0 265.52687 59.985192"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -206,7 +206,7 @@
        style="color-interpolation-filters:sRGB"
        id="filter4377"
        x="-0.1372222"
-       width="1.2744444"
+       width="1.2744443"
        y="-0.10291666"
        height="1.2058333">
       <feGaussianBlur
@@ -220,7 +220,7 @@
        id="filter4381"
        x="-0.10013513"
        width="1.2002703"
-       y="-0.13232141"
+       y="-0.13232142"
        height="1.2646428">
       <feGaussianBlur
          inkscape:collect="always"
@@ -241,8 +241,8 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter4585"
-       x="-0.14280001"
-       width="1.2856"
+       x="-0.1428"
+       width="1.2855999"
        y="-0.20399998"
        height="1.408">
       <feGaussianBlur
@@ -279,7 +279,7 @@
        id="filter4892"
        x="-0.10852941"
        width="1.2170588"
-       y="-0.13418182"
+       y="-0.13418183"
        height="1.2683636">
       <feGaussianBlur
          inkscape:collect="always"
@@ -290,9 +290,9 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter4912"
-       x="-0.091495889"
-       width="1.1829918"
-       y="-0.13915"
+       x="-0.091495886"
+       width="1.1829917"
+       y="-0.13914999"
        height="1.2783">
       <feGaussianBlur
          inkscape:collect="always"
@@ -313,10 +313,10 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter4958"
-       x="-0.053571428"
+       x="-0.053571429"
        width="1.1071429"
        y="-0.19444445"
-       height="1.3888889">
+       height="1.388889">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.54138188"
@@ -336,7 +336,7 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter5028"
-       x="-0.070325581"
+       x="-0.070325583"
        width="1.1406512"
        y="-0.23261538"
        height="1.4652308">
@@ -359,9 +359,9 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter5100"
-       x="-0.069381819"
-       width="1.1387636"
-       y="-0.074823528"
+       x="-0.069381818"
+       width="1.1387635"
+       y="-0.074823529"
        height="1.1496471">
       <feGaussianBlur
          inkscape:collect="always"
@@ -395,9 +395,9 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter5210"
-       x="-0.050727272"
+       x="-0.050727271"
        width="1.1014545"
-       y="-0.073421053"
+       y="-0.073421054"
        height="1.1468421">
       <feGaussianBlur
          inkscape:collect="always"
@@ -413,8 +413,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.5175344"
-     inkscape:cx="188.46092"
-     inkscape:cy="607.18182"
+     inkscape:cx="126.48569"
+     inkscape:cy="23.818706"
      inkscape:document-units="px"
      inkscape:current-layer="g5214"
      showgrid="false"
@@ -422,7 +422,13 @@
      inkscape:window-height="1003"
      inkscape:window-x="76"
      inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     units="px"
+     showborder="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -438,7 +444,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-61.975232,-409.01384)">
     <g
        id="g4867"
        transform="translate(0,-2)">
@@ -603,7 +610,7 @@
                cy="404.68384"
                cx="59.149837"
                id="path4962"
-               style="opacity:0.94499978;fill:url(#linearGradient4970);fill-opacity:1;stroke:none;stroke-opacity:1;filter:url(#filter5028)" />
+               style="opacity:0.94499966;fill:url(#linearGradient4970);fill-opacity:1;stroke:none;stroke-opacity:1;filter:url(#filter5028)" />
           </g>
         </g>
       </g>
