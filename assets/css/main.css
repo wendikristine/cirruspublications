@@ -33,7 +33,7 @@ figure:not(.icon-overlay) > a:hover {
 	opacity: .7;
 }
 img[src*=".svg"] {
-	height: 100%; 
+	height: 100%;
 }
 iframe {
     border: none;
@@ -639,9 +639,9 @@ figure.post-media + * {
     color: #3B5998;
     color: #4668B3;
 }
-.member .text-overlay .info .social li a:hover .icon-s-gplus {
-    color: #DD4B39;
-    color: #DE5745;
+.member .text-overlay .info .social li a:hover .icon-s-likedin {
+    color: #0077B5;
+    color: #00A0DC;
 }
 .member .text-overlay .info .social li a:hover .icon-s-twitter {
     color: #00ACED;
@@ -1837,12 +1837,12 @@ aside .thumb figure {
     background: #3B5998;
     background: #4668B3;
 }
-.btn-share-lg:hover .icon-s-gplus:after,
-.btn-share-md:hover .icon-s-gplus:after,
-.btn-share-sm:hover .icon-s-gplus:after,
-.btn-share-xs:hover .icon-s-gplus:after {
-    background: #DD4B39;
-    background: #DE5745;
+.btn-share-lg:hover .icon-s-linkedin:after,
+.btn-share-md:hover .icon-s-linkedin:after,
+.btn-share-sm:hover .icon-s-linkedin:after,
+.btn-share-xs:hover .icon-s-linkedin:after {
+    background: #0077B5;
+    background: #00A0DC;
 }
 .btn-share-lg:hover .icon-s-twitter:after,
 .btn-share-md:hover .icon-s-twitter:after,
@@ -1986,9 +1986,9 @@ p .btn {
     background: #3B5998;
     background: #4668B3;
 }
-.social a .icon-s-gplus:after {
-    background: #DD4B39;
-    background: #DE5745;
+.social a .icon-s-linkedin:after {
+  background: #0077B5;
+  background: #00A0DC;
 }
 .social a .icon-s-twitter:after {
     background: #00ACED;
@@ -4643,7 +4643,7 @@ input:focus:-ms-input-placeholder {
 /*	RESPONSIVE
 /*===================================================================================*/
 
-@media (min-width: 1200px) { 
+@media (min-width: 1200px) {
 	.container {
 	    padding-right: 0;
 	    padding-left: 0;
@@ -4789,7 +4789,7 @@ input:focus:-ms-input-placeholder {
 	}
 	#team .inner-right {
 		padding-right: 40px;
-	}	
+	}
 	.classic-blog .post {
 		width: 601px;
 		padding-bottom: 50px;
@@ -5181,7 +5181,7 @@ input:focus:-ms-input-placeholder {
 	}
 }
 
-@media (max-width: 969px) { 
+@media (max-width: 969px) {
 	.yamm .dropdown.yamm-fullwidth .dropdown-menu {
 	    width: 100%;
 	}
