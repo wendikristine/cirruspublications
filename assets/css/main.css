@@ -1841,6 +1841,13 @@ aside .thumb figure {
     background: #3B5998;
     background: #4668B3;
 }
+.btn-share-lg:hover .icon-s-github:after,
+.btn-share-md:hover .icon-s-github:after,
+.btn-share-sm:hover .icon-s-github:after,
+.btn-share-xs:hover .icon-s-github:after {
+		background: #4078c0;
+		background: #3F7AC6;
+}
 .btn-share-lg:hover .icon-s-linkedin:after,
 .btn-share-md:hover .icon-s-linkedin:after,
 .btn-share-sm:hover .icon-s-linkedin:after,
