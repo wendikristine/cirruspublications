@@ -1993,6 +1993,10 @@ p .btn {
 .social li a:hover i:after {
 	height: 100%;
 }
+.social a .icon-s-github:after {
+		background: #4078c0;
+		background: #3F7AC6;
+}
 .social a .icon-s-facebook:after {
     background: #3B5998;
     background: #4668B3;
