@@ -1,3 +1,1 @@
-baseurl: /
-exclude: ['README.md']
-include: ['_portfolio']
+theme: jekyll-theme-cayman
